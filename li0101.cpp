@@ -1,0 +1,12 @@
+
+#include<iostream>
+using namespace std;
+int main (void)
+{
+  int num,square;
+  cout<<"num=";
+  cin>>num;
+  square=num*num;
+  cout<<"num的平方为："<<square<<'\n';
+  return 0;
+}
